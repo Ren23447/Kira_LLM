@@ -1,0 +1,22 @@
+# Kira LLM — Python dependencies
+# Install with:  pip install -r requirements.txt
+# Python 3.10+ required
+
+# ── Deep learning ─────────────────────────────────────────────
+torch>=2.0.0
+numpy>=1.24.0
+
+# ── Web server ────────────────────────────────────────────────
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# ── Progress bars ─────────────────────────────────────────────
+tqdm>=4.65.0
+
+# ── Standard library (built-in, listed for clarity) ───────────
+# sqlite3  — built-in
+# json     — built-in
+# re       — built-in
+# os       — built-in
+# dataclasses — built-in (Python 3.7+)
+# typing   — built-in (Python 3.5+)
